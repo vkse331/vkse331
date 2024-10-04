@@ -13,7 +13,7 @@
 Связь со мной<p align="left">
 <a href="https://www.github.com/vkse331" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /> </picture> </a>
 
-a href="https://t.me/Hanhak404" target="_blank">
+<a> href="https://t.me/Hanhak404" target="_blank">
   <img align="left" alt="Telegram" width="36" height="36" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" />
 </a>
 
